@@ -1,1 +1,15 @@
-{"name":"t:sections.header.name","type":"header","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"f7579f87-bf3c-4c53-9a56-533113ce2d77":{"type":"block","settings":{"content":"<p><strong>Pre-assembled and high-quality chicken coops at unbeatable prices<\/strong><\/p>","link":""}},"7387d40b-469e-4369-a613-0d11c4b82689":{"type":"block","settings":{"content":"<p><strong>No extra fees, no hidden costs! Enjoy tax-free purchases on all our products—shop now and save big!<\/strong><\/p>","link":""}},"block_37eei6":{"type":"block","settings":{"content":"<p><strong>Every coop is handcrafted for durability, predator resistance, and long-term reliability. Built to last!<\/strong><\/p>","link":""}},"block_hXNn7b":{"type":"block","settings":{"content":"<p><strong>We offer nationwide shipping—get your premium chicken coop delivered straight to your doorstep!<\/strong><\/p>","link":""}},"block_WtnV4F":{"type":"block","settings":{"content":"<p><strong>Have questions? Our experts are here to help! Contact us for personalized recommendations.<\/strong><\/p>","link":""}}},"block_order":["f7579f87-bf3c-4c53-9a56-533113ce2d77","7387d40b-469e-4369-a613-0d11c4b82689","block_37eei6","block_hXNn7b","block_WtnV4F"],"settings":{"enable_bar":true,"background":"#667339","text_color":"#ffffff","show_close_option":true,"show_arrows":true,"enable_autoplay":true,"cycle_speed":5}},"header":{"type":"header","settings":{"align_logo":"inline","enable_overlap_header":false,"enable_sticky_header":false,"header_fallback_image_opacity":40,"enable_header_fallback_image":false,"show_top_line_separator":true,"logo":"shopify:\/\/shop_images\/Cluck_Coop_Logo_FINAL.png","alternate_logo":"shopify:\/\/shop_images\/Cluck_Coop_Logo_FINAL.png","logo_max_width":200,"main_linklist":"main-menu","main_linklist_style":"none","email_text":"info@cluckandcoop.com","phone_number":"+1 (888) 860-2240","show_currency_selector":false,"show_locale_selector":false,"top_navigation_linklist":"","categories_linklist":"","show_search_filter":false,"enable_live_search":false,"search_popular_searches":"","search_popular_products":""}}},"order":["announcement-bar","header"]}
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "settings": {}
+    },
+    "header": {
+      "type": "header",
+      "settings": {}
+    }
+  },
+  "order": ["announcement-bar", "header"]
+}

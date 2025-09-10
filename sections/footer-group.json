@@ -1,1 +1,13 @@
-{"name":"t:sections.footer.name","type":"footer","sections":{"footer":{"type":"footer","blocks":{"3e8ad021-4d4b-4192-a6e1-22969ae16b85":{"type":"call_to_action","settings":{"icon":"phone","heading":"Call Expert Support","content":"<p>+1 (888) 860-2240<\/p><p>Mon - Fri 9am to 5pm<\/p>"}},"7d5cc56a-0113-420e-affb-1c7a52b1beed":{"type":"call_to_action","settings":{"icon":"envelope","heading":"Email us","content":"<p>info@cluckandcoop.com<\/p>"}},"c87ff8c9-986c-414f-b683-8405ecfe8cf9":{"type":"link_list","settings":{"title":"Quick links","menu":"footer"}},"6fdc813b-1a72-482e-9f4b-95bc01cdae0d":{"type":"link_list","settings":{"title":"Policies","menu":"policies-menu"}},"74c8113b-d327-4497-91fc-d188b970d6a6":{"type":"newsletter","settings":{"title":"Newsletter","text":"<p>Sign up for Cluck & Coop updates to receive information about new arrivals, future events, and specials.<\/p>"}},"cc6c26ca-0560-4408-a15d-4fdb87fc8a04":{"type":"text","settings":{"title":"Follow us on","text":"","show_social_icons":true,"enable_follow_on_shop":false,"show_locale_selector":false,"show_currency_selector":false}},"text_QLdXT6":{"type":"text","settings":{"title":"Contact Information","text":"<p>For Inquiries please call +1 (888) 680-2240 or email us on info@cluckandcoop.com<\/p>","show_social_icons":false,"enable_follow_on_shop":false,"show_locale_selector":false,"show_currency_selector":false}}},"block_order":["3e8ad021-4d4b-4192-a6e1-22969ae16b85","7d5cc56a-0113-420e-affb-1c7a52b1beed","c87ff8c9-986c-414f-b683-8405ecfe8cf9","6fdc813b-1a72-482e-9f4b-95bc01cdae0d","74c8113b-d327-4497-91fc-d188b970d6a6","cc6c26ca-0560-4408-a15d-4fdb87fc8a04","text_QLdXT6"],"settings":{"bg_opacity":20,"show_copyright_note":true,"show_payment_icons":true,"color_footer_bg":"#000000","color_footer_headings":"#ffffff","color_footer_text":"#ebebeb","color_footer_links":"#cccccc","color_footer_links_hover":"rgba(0,0,0,0)","call_to_action_block_bg":"#222222","call_to_action_block_icon_color":"rgba(0,0,0,0)","call_to_action_block_heading_color":"#ffffff","call_to_action_block_text_color":"#cccccc","social_icons_color":"#ffffff","social_icons_bg":"#919e61"}}},"order":["footer"]}
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {},
+      "block_order": [],
+      "settings": {}
+    }
+  },
+  "order": ["footer"]
+}
